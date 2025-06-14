@@ -1,0 +1,7 @@
+streamlit
+langchain_qdrant
+langchain_openai
+openai
+pypdf
+python-dotenv
+tiktoken
